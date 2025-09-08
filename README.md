@@ -7,7 +7,7 @@
 
 ## Professional Summary
 
-Experienced Senior Principal Consultant with **15+ years** in Software Quality Assurance, Test Automation, and client delivery across global banking and payments projects. Currently transitioning into the Data Science and AI/ML domain, with recent certifications in Artificial Intelligence and Machine Learning. Skilled in applying analytics and automation to drive quality engineering. Enthusiastic about leveraging new data science capabilities—such as predictive modeling, machine learning, and data visualization—to solve real-world business problems and enhance QA practices. Committed to continuous learning, sharing insights, and collaborating with teams to deliver innovative solutions.
+Experienced Senior Principal Consultant with **15+ years** in Software Quality Assurance, Test Automation, and client delivery across global banking and payments projects. Currently transitioning into the Data Science and AI/ML domain, with recent certifications in Artificial Intelligence and Machine Learning. Skilled in applying analytics and automation to drive quality engineering. Enthusiastic about leveraging new data science capabilities such as predictive modeling, machine learning and data visualization—to solve real-world business problems and enhance QA practices. Committed to continuous learning, sharing insights, and collaborating with teams to deliver innovative solutions.
 
 ---
 
